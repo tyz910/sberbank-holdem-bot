@@ -11,3 +11,10 @@ https://www.youtube.com/watch?v=74pTbshfERM
 
 Игры финала:
 https://tyz910.github.io/sberbank-holdem-bot/poker-vis/
+
+## Запуск в Docker
+
+1. Выполнить `make run`.
+2. Открыть в браузере [http://127.0.0.1:8000](http://127.0.0.1:8000).
+
+![](https://github.com/tyz910/sberbank-holdem-bot/raw/master/gui.png)

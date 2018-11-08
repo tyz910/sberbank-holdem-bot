@@ -1,0 +1,29 @@
+ai_players:
+  - name: RandomBot1
+    path: /app/player.py
+
+  - name: RandomBot2
+    path: /app/player.py
+
+  - name: RandomBot3
+    path: /app/player.py
+
+  - name: RandomBot4
+    path: /app/player.py
+
+  - name: RandomBot5
+    path: /app/player.py
+
+  - name: RandomBot6
+    path: /app/player.py
+
+  - name: RandomBot7
+    path: /app/player.py
+
+  - name: RandomBot8
+    path: /app/player.py
+ante: 0
+blind_structure: null
+initial_stack: 1500
+max_round: 50
+small_blind: 15

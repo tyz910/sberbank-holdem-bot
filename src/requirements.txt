@@ -1,0 +1,4 @@
+catboost==0.1.1.6
+pandas==0.23.3
+-e git+https://github.com/sberbank-ai/holdem-challenge.git@b979febaaeae7c8b5bcb3e9b1e7b8e049cf05fe5#egg=sberbank_pypokerengine&subdirectory=PyPokerEngine
+-e git+https://github.com/tyz910/PyPokerGUI.git@c880ce4b6b60364f04eb834cf58b44b849513973#egg=PyPokerGUI
